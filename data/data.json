@@ -1,0 +1,10 @@
+{
+    "mode": "normal",
+    "player1": "blue",
+    "player2": "yellow",
+    "font": "Tahoma",
+    "sound": [
+        "on",
+        "green"
+    ]
+}
